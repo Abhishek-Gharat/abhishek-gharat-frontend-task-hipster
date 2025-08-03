@@ -280,14 +280,6 @@ This project was built from scratch specifically for the Hipster Inc. React Fron
 
 The implementation showcases not just technical skills, but also attention to detail, user experience design, and professional development practices that would be valuable in a real-world team environment.
 
-## 📞 Contact
-
-**Abhishek Gharat**  
-React Frontend Developer  
-Email: abhishekgharat@example.com  
-LinkedIn: linkedin.com/in/abhishekgharat  
-Portfolio: abhishekgharat.dev
-
 ---
 
 *This project demonstrates my commitment to excellence, attention to detail, and passion for creating exceptional user experiences. I look forward to discussing how I can contribute to the Hipster Inc. team.*
